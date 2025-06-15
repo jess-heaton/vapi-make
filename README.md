@@ -1,3 +1,5 @@
+Note: The video quality isn't great (audio issues on one side) and the translation occasionally gets things wrong, but the core concept is solid and it successfully understands and translates my beginner Spanish!
+
 Translation Agent Architecture Overview
 Two-Call Bridge System: Creates two separate VAPI calls that communicate through Make.com automation scenarios - one outbound phone call to the client and one web call for the admin.
 
